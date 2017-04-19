@@ -1,0 +1,48 @@
+
+.vert {
+	background-color:#7efeff;
+}
+
+.rose {
+	background-color: rgba(250, 138, 126)
+}
+
+.jaune {
+	background-color: #fbff86;
+}
+
+.violet {
+	background-color: #b483ff;
+}
+
+.bleu {
+	background-color:#3ea8f6;
+}
+
+.rose .nom {
+	background-color : #f8504d;
+}
+
+.bleu .nom {
+	background-color:#34eab5;
+}
+
+.jaune .nom {
+	background-color:#fbed1a;
+}
+
+.vert .nom {
+	background-color:#3ea8f6;
+}
+
+.violet .nom {
+	background-color:#7f53c6;
+}
+
+.turquoise {
+	background-color:#b7f6c9;
+}
+
+.turquoise .nom {
+	background-color:#34eab5;
+}
